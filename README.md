@@ -32,4 +32,15 @@ This is a Python app that fetches the last 30 days of Bitcoin price data using t
 1. **Clone the repository**
 ```bash
 git clone https://github.com/lorenzocovarrubiasjr/btc_price_visualizer
+```
+
+2. **Install Dependencies** 
+```bash
 cd btc_price_visualizer
+pip3 install -r requirements.txt
+```
+
+3. **Run the app**
+```bash
+python3 main.py
+```
