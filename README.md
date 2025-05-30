@@ -31,5 +31,5 @@ This is a Python app that fetches the last 30 days of Bitcoin price data using t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/btc-30day-tracker.git
-cd btc-30day-tracker
+git clone https://github.com/lorenzocovarrubiasjr/btc_price_visualizer
+cd btc_price_visualizer
